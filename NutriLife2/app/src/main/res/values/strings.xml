@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NutriLife</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_dietas">DietasActivity</string>
+    <string name="title_activity_perfil_activy">PerfilActivy</string>
+    <string name="title_activity_perfil">PerfilActivity</string>
+    <string name="title_activity_configuracoes">ConfiguracoesActivity</string>
+    <string name="title_activity_ajuda">AjudaActivity</string>
+    <string name="title_activity_plano">PlanoActivity</string>
+</resources>
